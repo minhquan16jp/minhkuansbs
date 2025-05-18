@@ -18,13 +18,13 @@ var authConfig = {
     },
   ],
 };
-
 var themeOptions = {
-  cdn: "https://cdn.jsdelivr.net/gh/minhquan16jp/minhkuansbs/dist",  // THÊM DÒNG NÀY
+  // en/zh-chs/zh-cht
   languages: "en",
   render: {
     head_md: true,
     readme_md: true,
+    // Show file/folder description or not (not shown by default)
     desc: true,
   },
   video: {
@@ -35,7 +35,6 @@ var themeOptions = {
     autoplay: false,
   },
 };
-
 window.gdconfig = JSON.parse(
   JSON.stringify({ version: authConfig.version, themeOptions: themeOptions })
 );
