@@ -47,7 +47,7 @@
   },
   "setting": {
     "clear": {
-      "text": "Clean cache",
+      "text": "Xoá bộ nhớ cache",
       "success": "Cache cleanup successful"
     }
   },
