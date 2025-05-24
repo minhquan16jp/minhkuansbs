@@ -1,7 +1,7 @@
 {
-  "_name": "English",
-  "languages": "Languages",
-  "index": "Home",
+  "_name": "Tiếng Việt",
+  "languages": "Ngôn ngữ",
+  "index": "Trang chủ",
   "folder": "Folder",
   "notify": {
     "title": "Notify"
