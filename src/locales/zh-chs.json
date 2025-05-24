@@ -1,61 +1,61 @@
 {
-  "_name": "简体中文",
-  "languages": "选择语言",
-  "index": "首页",
-  "folder": "文件夹",
+  "_name": "English",
+  "languages": "Languages",
+  "index": "Home",
+  "folder": "Folder",
   "notify": {
-    "title": "提示"
+    "title": "Notify"
   },
   "copy": {
-    "text": "复制",
-    "success": "复制成功",
-    "error": "复制失败"
+    "text": "Copy",
+    "success": "Copy successful",
+    "error": "Copy failed"
   },
   "list": {
     "view": {
-      "gridMode": "网格视图",
-      "listMode": "列表视图"
+      "gridMode": "Grid view",
+      "listMode": "List view"
     },
-    "auth": "目录加密，请输入密码",
+    "auth": "Directory encryption, please enter password",
     "title": {
-      "file": "文件",
-      "moditime": "修改时间",
-      "size": "大小",
-      "operation": "操作"
+      "file": "File",
+      "moditime": "Modified Time",
+      "size": "Size",
+      "operation": "Actions"
     },
-    "loading": "加载中...",
+    "loading": "Loading...",
     "opt": {
-      "copy": "复制链接",
-      "newTab": "打开新的标签页",
-      "download": "下载"
+      "copy": "Copy link",
+      "newTab": "Open a new tab",
+      "download": "Download"
     },
-    "total": "共",
-    "item": "项"
+    "total": "Total",
+    "item": "item"
   },
   "search": {
-    "placeholder": "搜索..."
+    "placeholder": "Search resources..."
   },
   "page": {
     "video": {
-      "play": "播放",
-      "download": "下载",
-      "link": "下载地址"
+      "play": "Play",
+      "download": "Download",
+      "link": "Download link"
     },
     "text": {
-      "loading": "加载中..."
+      "loading": "Loading..."
     }
   },
   "setting": {
     "clear": {
-      "text": "清理缓存",
-      "success": "缓存清理成功"
+      "text": "Clean cache",
+      "success": "Cache cleanup successful"
     }
   },
   "checkVersion": {
-    "tips": "检测到有新版本，<a href='${url}'>前往GitHub</a>"
+    "tips": "New version detected, <a href='${url}'>Go to GitHub</a>"
   },
   "error": {
-    "shortcut_not_down": "快捷方式无法打开/下载",
-    "401": "未授权，请登录"
+    "shortcut_not_down": "Shortcut can't open/download",
+    "401": "Unauthorized, please login"
   }
 }
